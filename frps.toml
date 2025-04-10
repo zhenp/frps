@@ -24,7 +24,7 @@ log.maxDays = 3
 log.disablePrintColor = false
 
 auth.method = "token"
-auth.token = "12345678"
+auth.token = "RD9687p"
 
 allowPorts = [
   { start = 10001, end = 50000 }
